@@ -1,2 +1,2 @@
 This is my very first readme comment...
-Alx SWE program is great
+ALX SWE programe i'm happy to code
