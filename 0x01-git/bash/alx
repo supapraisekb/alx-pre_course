@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-ALX School is so cool!
-=======
-ALX School
->>>>>>> refs/remotes/origin/main
+#!/bin/bash
+ echo "ALX"
